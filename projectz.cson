@@ -1,0 +1,33 @@
+{
+	"title": "Array Multi Sort",
+	"name": "@iplatformglobal/array-milti-sort",
+	"homepage": "https://www.iplatform.com",
+	"description": "Array helper for soring array object on multiple key values with ordering",
+	"license": "MIT",
+	"browsers": true,
+	"author": "2017+ iPlatform <software@iplatform.co.za> (https://www.iplatform.com)",
+	"maintainers": [
+		"Reme Le Hane (reme.lehane@gmail.com) (https://www.remelehane.me)"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iPlatformGlobal/array-multi-sort.git"
+	},
+	"bugs": {
+		"url": "https://github.com/iPlatformGlobal/array-multi-sort/issues"
+	},
+	"badges": {
+		"list": [
+			"nodeico",
+      "---",
+			"npmversion",
+			"npmdownloads",
+			"githubfollow",
+			"githubstar",
+			"daviddm",
+		],
+		"config": {
+			"githubUsername": "iPlatformGlobal"
+		}
+	}
+}
