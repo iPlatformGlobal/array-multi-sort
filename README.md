@@ -14,11 +14,11 @@ Array helper for soring array object on multiple key values with ordering
 
 <!-- BADGES/ -->
 
-<span class="badge-nodeico"><a href="https://www.npmjs.com/package/@iplatformglobal/array-milti-sort" title="Nodei.co badge"><img src="https://nodei.co/npm/@iplatformglobal/array-milti-sort.png" alt="Nodei.co badge" /></a></span>
+<span class="badge-nodeico"><a href="https://www.npmjs.com/package/@iplatformglobal/array-multi-sort" title="Nodei.co badge"><img src="https://nodei.co/npm/@iplatformglobal/array-multi-sort.png" alt="Nodei.co badge" /></a></span>
 <br class="badge-separator" />
 <span class="badge-travisci"><a href="http://travis-ci.org/iPlatformGlobal/array-multi-sort" title="Check this project's build status on TravisCI"><img src="https://img.shields.io/travis/iPlatformGlobal/array-multi-sort/master.svg" alt="Travis CI Build Status" /></a></span>
-<span class="badge-npmversion"><a href="https://npmjs.org/package/@iplatformglobal/array-milti-sort" title="View this project on NPM"><img src="https://img.shields.io/npm/v/@iplatformglobal/array-milti-sort.svg" alt="NPM version" /></a></span>
-<span class="badge-npmdownloads"><a href="https://npmjs.org/package/@iplatformglobal/array-milti-sort" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/@iplatformglobal/array-milti-sort.svg" alt="NPM downloads" /></a></span>
+<span class="badge-npmversion"><a href="https://npmjs.org/package/@iplatformglobal/array-multi-sort" title="View this project on NPM"><img src="https://img.shields.io/npm/v/@iplatformglobal/array-multi-sort.svg" alt="NPM version" /></a></span>
+<span class="badge-npmdownloads"><a href="https://npmjs.org/package/@iplatformglobal/array-multi-sort" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/@iplatformglobal/array-multi-sort.svg" alt="NPM downloads" /></a></span>
 <span class="badge-daviddm"><a href="https://david-dm.org/iPlatformGlobal/array-multi-sort" title="View the status of this project's dependencies on DavidDM"><img src="https://img.shields.io/david/iPlatformGlobal/array-multi-sort.svg" alt="Dependency Status" /></a></span>
 
 <!-- /BADGES -->
@@ -26,11 +26,11 @@ Array helper for soring array object on multiple key values with ordering
 
 ## Instalation
 ```
-yarn add @iplatformglobal/array-milti-sort or
+yarn add @iplatformglobal/array-multi-sort or
 
 or
 
-npm install @iplatformglobal/array-milti-sort
+npm install @iplatformglobal/array-multi-sort
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "@iplatformglobal/array-milti-sort",
+  "name": "@iplatformglobal/array-multi-sort",
   "version": "1.0.0",
   "description": "Array helper for soring array object on multiple key values with ordering",
   "main": "build/index.js",

@@ -1,6 +1,6 @@
 {
 	"title": "Array Multi Sort",
-	"name": "@iplatformglobal/array-milti-sort",
+	"name": "@iplatformglobal/array-multi-sort",
 	"homepage": "https://www.iplatform.com",
 	"description": "Array helper for soring array object on multiple key values with ordering",
 	"license": "MIT",
