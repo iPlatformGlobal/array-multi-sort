@@ -4,6 +4,7 @@
   "description": "Array helper for soring array object on multiple key values with ordering",
   "main": "build/index.js",
   "scripts": {
+    "compile": "projectz compile",
     "preversion": "yarn test",
     "postversion": "git push && git push --tags && npm publish",
     "prepare": "yarn build",
@@ -15,10 +16,7 @@
     "prepush": "yarn lint && yarn test",
     "postmerge": "yarn"
   },
-  "publishConfig": {
-    "registry": "https://nexus.iplatform.co.za/repository/iPlatformNPM/"
-  },
-  "author": "Reme Le Hane <reme@iplatform.com> (https://www.remelehane.me)",
+  "author": "2017+ iPlatform <software@iplatform.co.za> (http://www.iplatform.com)",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.24.1",
@@ -33,6 +31,7 @@
     "husky": "^0.14.3",
     "jest": "^21.0.1",
     "path": "^0.12.7",
+    "projectz": "^1.4.0",
     "validate-commit-msg": "^2.14.0",
     "webpack": "^3.5.5"
   },
@@ -47,5 +46,14 @@
   },
   "dependencies": {
     "jest-bamboo-formatter": "^1.0.1"
+  },
+  "maintainers": [
+    "Reme Le Hane (reme.lehane@gmail.com) (https://www.remelehane.me)"
+  ],
+  "contributors": [
+    "Reme Le Hane (http://www.remelehane.me)"
+  ],
+  "bugs": {
+    "url": "https://github.com/iPlatformGlobal/array-multi-sort/issues"
   }
 }
