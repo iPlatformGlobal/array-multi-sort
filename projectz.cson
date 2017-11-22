@@ -20,6 +20,7 @@
 		"list": [
 			"nodeico",
       "---",
+      "travisci",
 			"npmversion",
 			"npmdownloads",
 			"githubfollow",
