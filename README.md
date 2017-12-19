@@ -24,7 +24,7 @@ Array helper for soring array object on multiple key values with ordering
 <!-- /BADGES -->
 
 
-## Instalation
+## Installation
 ```
 yarn add @iplatformglobal/array-multi-sort or
 
